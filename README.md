@@ -1,4 +1,4 @@
-# Achar-raizes-usando-Newton-Raphson
+# Achar-raizes-usando-Newton-Raphson-R
 O método de Newton é um método para procurar as raízes de uma função, para isso, escolhemos um ponto proximo. Depois disso, calculamos a equação da reta tangente (por meio da derivada) da função nesse ponto e a interseção dela com o eixo das abcissas, a fim de encontrar uma melhor aproximação para a raiz. Repetindo o processo varias vezes, podemos ter o valor aproximado da raiz.
 
 # Gráfico da função
